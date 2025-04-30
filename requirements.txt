@@ -1,0 +1,10 @@
+# Dependency versi utama
+pandas
+numpy
+Pillow
+
+# Development dependencies
+python-dotenv
+black
+pytest
+scikit-learn

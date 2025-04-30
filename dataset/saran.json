@@ -1,0 +1,61 @@
+{
+    "S": [
+        {
+            "saran": "Pilih model regular fit untuk kenyamanan maksimal.",
+            "kategori": ["formal", "kasual"],
+            "produk_rekomendasi": ["Kemeja Slim Fit", "T-Shirt Basic"],
+            "deskripsi": "Ukuran S cocok untuk tubuh ramping dan postur kecil.",
+            "tips_styling": "Padukan dengan celana slim atau straight cut untuk proporsi seimbang.",
+            "catatan_teknis": "Pastikan bahan tidak terlalu ketat agar nyaman dipakai sehari-hari."
+        },
+        {
+            "saran": "Ukuran S cocok untuk tubuh ramping...",
+            "kategori": ["olahraga"],
+            "produk_rekomendasi": ["Kaos Olahraga Quick Dry"],
+            "deskripsi": "Ideal untuk aktivitas dinamis dan olahraga ringan.",
+            "tips_styling": "Gunakan warna netral untuk fleksibilitas pemakaian.",
+            "catatan_teknis": "Bahan quick dry dan breathable sangat direkomendasikan."
+        }
+    ],
+    "M": [
+        {
+            "saran": "Ukuran standar cocok untuk kebutuhan sehari-hari.",
+            "kategori": ["formal", "kasual", "kerja"],
+            "produk_rekomendasi": ["Kemeja Oxford", "Celana Chino"],
+            "deskripsi": "Ukuran M memberikan keseimbangan sempurna antara kenyamanan dan gaya.",
+            "tips_styling": "Cocok digunakan di berbagai suasana tanpa terlihat mencolok.",
+            "catatan_teknis": "Pastikan jahitan rapi untuk kesan profesional."
+        }
+    ],
+    "L": [
+        {
+            "saran": "Pertimbangkan relaxed fit untuk aktivitas fisik tinggi.",
+            "kategori": ["olahraga", "outdoor"],
+            "produk_rekomendasi": ["Jaket Hoodie Oversize", "Celana Training"],
+            "deskripsi": "Ukuran L ideal untuk postur atletis dan badan lebih besar.",
+            "tips_styling": "Pilih warna netral untuk variasi padu padan.",
+            "catatan_teknis": "Bahan stretch atau elastis akan meningkatkan mobilitas."
+        }
+    ],
+    "XL": [
+        {
+            "saran": "Ukuran XL cocok untuk bentuk tubuh yang lebih lebar dan tinggi.",
+            "kategori": ["kasual", "olahraga"],
+            "produk_rekomendasi": ["Hoodie Oversize", "Celana Jogger"],
+            "deskripsi": "Memberikan ruang gerak luas tanpa mengorbankan gaya.",
+            "tips_styling": "Gunakan warna monochrome untuk tampil lebih ramping.",
+            "catatan_teknis": "Pilih pola vertical stripes untuk efek penyempitan visual."
+        }
+    ],
+    "XXL": [
+        {
+            "saran": "Desain oversize akan memberikan kesan casual dan santai.",
+            "kategori": ["kasual", "streetwear"],
+            "produk_rekomendasi": ["Sweater Oversize", "Celana Sarung Besar"],
+            "deskripsi": "Ukuran XXL cocok untuk pengguna dengan postur besar.",
+            "tips_styling": "Hindari motif horizontal yang membuat terlihat lebih lebar.",
+            "catatan_teknis": "Pilih bahan yang tidak mudah kusut untuk penampilan lebih rapi."
+        }
+    ],
+    "default": "Silakan sesuaikan dengan preferensi pribadi Anda."
+}
