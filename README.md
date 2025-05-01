@@ -26,7 +26,7 @@ Sistem cerdas untuk merekomendasikan ukuran pakaian berdasarkan parameter tubuh 
 
 2. **Buat virtual environment**
    ```bash
-   python -m venv venv
+   "D:\laragon\bin\python\python-3.10\python.exe" -m venv venv
    source venv/bin/activate  # Linux/MacOS
    venv\Scripts\activate  # Windows
    ```
